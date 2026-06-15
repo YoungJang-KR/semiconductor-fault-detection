@@ -1,6 +1,10 @@
 # semiconductor-fault-detection
 Sensor-based fault detection for semiconductor etching equipment using PHM 2018 dataset
 
+## Credits / 출처
+
+This README is based on the dataset description originally written by [LSHReader](https://github.com/makinarocks/awesome-industrial-machine-datasets/commits?author=LSHReader).
+
 The data provided by PHM Data Challenge 18 was provided to investigate the fault behavior of ion mill etch tools in the wafer manufacturing process. It is a database that collects sensor data in time sequence from ion mill etching tools operating under various setting conditions.    
 
 ![](https://img.shields.io/badge/sector-semicon-blue.svg)
